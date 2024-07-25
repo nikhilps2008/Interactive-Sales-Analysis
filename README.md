@@ -1,23 +1,46 @@
 # Interactive Sales Analysis
 
+## Table of Contents
+1. [Project Scope](#project-scope)
+2. [Context or Background Info](#context-or-background-info)
+3. [Folder Structure](#folder-structure)
+4. [Visualizations](#visualizations)
+5. [Author](#author)
+6. [Data Sources](#data-sources)
+7. [Dependencies](#dependencies)
+8. [Conclusion and Insights](#conclusion-and-insights)
+
 ## Project Scope
 This project focuses on transforming raw sales data into dynamic, real-time visualizations using Microsoft Excel. The dashboard provides actionable insights into sales performance through advanced Excel features, enabling effective decision-making and strategy refinement.
 
 ## Context or Background Info
-Analyzing sales data effectively is crucial for businesses to understand performance trends, customer behavior, and operational efficiency. This project leverages Excel's capabilities to offer a comprehensive analysis of sales data, including customer segmentation, profitability trends, product performance, and store comparisons. The interactive dashboard is designed to engage stakeholders and support data-driven decision-making.
+Analyzing sales data effectively is crucial for businesses to understand performance trends, customer behaviour, and operational efficiency. This project leverages Excel's capabilities to offer a comprehensive analysis of sales data, including customer segmentation, profitability trends, product performance, and store comparisons. The interactive dashboard is designed to engage stakeholders and support data-driven decision-making.
+
+## Folder Structure
+The project follows the structure below:
+
+- **`data/`**: Contains raw and processed data files.
+  - `raw/` - Original datasets.
+  - `processed/` - Cleaned datasets for analysis.
+
+- **`reports/`**: Contains project reports and visualizations.
+  - `figures/` - PNG photos of the dashboard.
+  - `videos/` - Videos demonstrating the dashboard.
+  - `excel/` - Excel files used for analysis and visualization.
+
+- **`README.md`**: This file.
 
 ## Visualizations
 The dashboard includes various visualizations to explore different aspects of sales data:
-
-- **Dashboard Overview:** ![Dashboard Overview](reports/figures/Interacive%20Sales%20Analysis-1.png)
-- **Dashboard Overview:** ![Dashboard Overview](reports/figures/Interacive%20Sales%20Analysis-2.png)
+- **Dashboard Overview 1:** ![Dashboard Overview](reports/figures/Interacive%20Sales%20Analysis-1.png)
+- **Dashboard Overview 2:** ![Dashboard Overview](reports/figures/Interacive%20Sales%20Analysis-2.png)
 
 ## Author
 Nikhil Sreenivasan
 
 ## Data Sources
 - **Dataset:** Contains raw sales data, including revenue, profit, customer demographics, product details, and store performance metrics.
-- **Data File Location:** `/data/raw`
+- **Data File Location:** `data/raw`
 
 ## Dependencies
 - **Microsoft Excel:** For data cleaning, analysis, and visualization.

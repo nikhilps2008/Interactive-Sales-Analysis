@@ -8,8 +8,9 @@ Analyzing sales data effectively is crucial for businesses to understand perform
 
 ## Visualizations
 The dashboard includes various visualizations to explore different aspects of sales data:
---**Dashboard Overview:** ![Dashboard Overview](reports/figures/Data%20Professional%20Survey%20Report.png)
-- **Dashboard Overview:** ![Dashboard Overview](reports/figures/Data%20Professional%20Survey%20Report.png)
+
+- **Dashboard Overview:** ![Dashboard Overview](reports/figures/Interacive%20Sales%20Analysis-1.png)
+- **Dashboard Overview:** ![Dashboard Overview](reports/figures/Interacive%20Sales%20Analysis-2.png)
 
 ## Author
 Nikhil Sreenivasan

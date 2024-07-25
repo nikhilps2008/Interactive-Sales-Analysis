@@ -1,48 +1,34 @@
-# Interactive-Sales-Analysis
-Welcome to the Interactive Sales Analysis Dashboard project! This dashboard is designed to transform raw sales data into dynamic, real-time visualizations, providing actionable insights at a glance. It leverages advanced Excel features to create a user-friendly interface that tracks key performance indicators (KPIs) and engages stakeholders with vivid visualizations tailored to business needs.
+# Interactive Sales Analysis
 
-# Project Overview:
-Customer Analysis:
+## Project Scope
+This project focuses on transforming raw sales data into dynamic, real-time visualizations using Microsoft Excel. The dashboard provides actionable insights into sales performance through advanced Excel features, enabling effective decision-making and strategy refinement.
 
-Displays profits segmented by gender and age.
-Tools to help refine marketing strategies by audience segmentation.
-Profitability Trends:
+## Context or Background Info
+Analyzing sales data effectively is crucial for businesses to understand performance trends, customer behavior, and operational efficiency. This project leverages Excel's capabilities to offer a comprehensive analysis of sales data, including customer segmentation, profitability trends, product performance, and store comparisons. The interactive dashboard is designed to engage stakeholders and support data-driven decision-making.
 
-Utilizes Excel's powerful charting and trend analysis features.
-Reveals hidden patterns in sales data, focusing on effectiveness and seasonality.
-Interactive Elements:
+## Visualizations
+The dashboard includes various visualizations to explore different aspects of sales data:
+--**Dashboard Overview:** ![Dashboard Overview](reports/figures/Data%20Professional%20Survey%20Report.png)
+- **Dashboard Overview:** ![Dashboard Overview](reports/figures/Data%20Professional%20Survey%20Report.png)
 
-Introduces responsive dashboard features.
-Tracks profitability by weekdays for operational planning and optimization.
-Product Analysis:
+## Author
+Nikhil Sreenivasan
 
-Highlights top-performing items.
-Analyzes return and refund rates, crucial for inventory management and financial forecasting.
-Store Performance Comparison:
+## Data Sources
+- **Dataset:** Contains raw sales data, including revenue, profit, customer demographics, product details, and store performance metrics.
+- **Data File Location:** `/data/raw`
 
-Compares store performances and dissects month-by-month sales data.
-Provides a comprehensive understanding of financial standing.
-Features:
-Total Revenue and Target Comparison: Visualizes revenue against targets for each store, displaying variance and percentage difference.
-Monthly Analysis: Revenue tracking by month, showing performance trends over the year.
-Day-wise Profit Analysis: Analyzes profit on different days of the week, distinguishing between weekdays and weekends.
-Dynamic Filtering: Allows users to filter data by month and store for a more granular view.
+## Dependencies
+- **Microsoft Excel:** For data cleaning, analysis, and visualization.
+- **Power Query Editor:** For transforming and loading data.
+- **Pivot Tables and Charts:** For creating dynamic and interactive visualizations.
+- **Advanced Excel Features:** Such as conditional formatting, data validation, and dynamic arrays.
 
-# Tools Used:
-Microsoft Excel: For data cleaning, analysis, and visualization.
+## Conclusion and Insights
+The interactive sales dashboard provides valuable insights into sales performance, helping businesses refine their strategies and optimize operations. Key findings include:
+- **Customer Analysis:** Reveals profit contributions segmented by gender and age, aiding in targeted marketing.
+- **Profitability Trends:** Identifies patterns in sales effectiveness and seasonality.
+- **Product Analysis:** Highlights top-performing items and insights into return and refund rates.
+- **Store Performance Comparison:** Offers a detailed view of store performance and month-by-month sales data.
 
-Power Query Editor: To transform and load data efficiently.
-
-Pivot Tables and Charts: For creating dynamic and interactive visualizations.
-
-Advanced Excel Features: Such as conditional formatting, data validation, and dynamic arrays.
-
-
-# Conclusion and Insights:
-Through this dashboard, we gained valuable insights into various aspects of sales performance. The customer analysis revealed significant differences in profit contributions based on gender and age, helping tailor marketing strategies more effectively. The profitability trends highlighted patterns in sales effectiveness and seasonality, essential for strategic planning.
-
-By incorporating interactive elements, we provided a more engaging and insightful user experience, particularly in tracking profitability by weekdays. The product analysis identified top-performing items and highlighted areas for improvement in inventory management through return and refund rates.
-
-The store performance comparison offered a comprehensive view of monthly sales data, allowing for better decision-making and operational optimization.
-
-Overall, this project showcases the power of Excel in transforming raw data into actionable insights, driving informed business decisions.
+This project demonstrates how Excel can transform raw data into actionable insights, driving informed business decisions and improving overall sales performance.

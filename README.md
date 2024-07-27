@@ -34,6 +34,9 @@ The project follows the structure below:
 The dashboard includes various visualizations to explore different aspects of sales data:
 - **Dashboard Overview 1:** ![Dashboard Overview](reports/figures/Interacive%20Sales%20Analysis-1.png)
 - **Dashboard Overview 2:** ![Dashboard Overview](reports/figures/Interacive%20Sales%20Analysis-2.png)
+- **Dashboard Demo:**
+
+https://github.com/user-attachments/assets/01368f02-d078-4e8c-85ed-e228affafec2
 
 ## Author
 Nikhil Sreenivasan
